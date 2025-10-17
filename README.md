@@ -56,6 +56,35 @@ app/
 requirements.txt
 README.md
 ```
+ License & Attribution
+This project is open source but please respect the creator's work:
 
-## License
-For personal/educational use. Replace LLM keys with your own; this repo does not ship keys.
+✅ Fork it and give it a ⭐
+✅ Share it with proper attribution to @tubakhxn
+✅ Modify it for your own projects (with credit)
+✅ Learn from it and build something even cooler!
+Please DON'T:
+
+❌ Copy without giving credit to the original creator
+❌ Claim it as your own work
+❌ Remove attribution from the code
+🙏 Credits & Acknowledgments
+Original Concept & Implementation: @tubakhxn
+AI Computer Vision: MediaPipe by Google
+Graphics Processing: OpenCV
+Inspired by: Cyberpunk 2077, Ghost in the Shell, The Matrix
+🤝 Contributing
+Want to make this even more awesome? Contributions are welcome!
+
+Fork this repository
+Create a feature branch
+Make your epic improvements
+Submit a pull request
+Get featured as a contributor!
+Please maintain attribution to @tubakhxn as the original creator.
+
+Made with ❤️ by @tubakhxn for cyberpunk enthusiasts and AR developers!
+
+"I would rather be a cyborg than a goddess." - Donna Haraway
+
+⭐ Don't forget to star this repo if you found it awesome! ⭐
